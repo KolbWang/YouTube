@@ -4,7 +4,7 @@
 
 ### 此为代码示例，教程地址：
 
-> [文章列表](https://github.com/kolbwang/YouTube/issues)
+> [文章列表](https://kolb.wang)
 
 > [我的YouTube](https://www.youtube.com/channel/UCa4INMiD1v9Ph1De4j5LsHg?view_as=subscriber)
 
